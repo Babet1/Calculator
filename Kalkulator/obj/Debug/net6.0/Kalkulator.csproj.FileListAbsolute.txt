@@ -1,0 +1,15 @@
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.AssemblyReference.cache
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.cs
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Kuliah\C#\Kalkulator\bin\Debug\net6.0\Kalkulator.exe
+D:\Kuliah\C#\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+D:\Kuliah\C#\Kalkulator\bin\Debug\net6.0\Kalkulator.runtimeconfig.json
+D:\Kuliah\C#\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+D:\Kuliah\C#\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\Kalkulator.genruntimeconfig.cache
+D:\Kuliah\C#\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll
